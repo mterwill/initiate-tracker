@@ -1,0 +1,20 @@
+- key: service
+  title: Service Hours
+  required: 4.0
+  also_count: epeians_service
+- key: epeians_service
+  title: Epeians Service Hours
+  required: 2.0
+- key: social
+  title: Social Events
+  required: 3.0
+- key: meeting
+  title: Epeians Meetings
+  required: 3.0
+  also_count: leadership
+- key: leadership
+  title: Leadership Seminars
+  required: 2.0
+- key: coffee
+  title: Coffee Chat
+  required: 1.0
